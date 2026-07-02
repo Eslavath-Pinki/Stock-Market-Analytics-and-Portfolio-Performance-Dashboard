@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 3869cf5ca251f75dadcda9dd91c44cefff5321c3 Sidhartha <sidhartha@example.com> 1782974473 +0000	commit (initial): Stock Market Analytics: code-quality pass — fixed upsert, Sortino, ARIMA order, SMA warmup, retry logic; added optimizer, Calmar ratio, backtest
