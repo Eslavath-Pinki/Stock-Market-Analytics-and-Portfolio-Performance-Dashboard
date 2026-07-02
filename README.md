@@ -1,5 +1,9 @@
 # Stock Market Analytics and Portfolio Performance Dashboard
 
+[![CI](https://github.com/Eslavath-Pinki/Stock-Market-Analytics-and-Portfolio-Performance-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/Eslavath-Pinki/Stock-Market-Analytics-and-Portfolio-Performance-Dashboard/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Analyze historical stock data for a mix of global and Indian companies to understand
 performance, measure risk, compare stocks, build a portfolio, and forecast prices.
 
